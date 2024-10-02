@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2024-10-01 19:41:44 -0500
+categories: jekyll update
+---
+Esta pagina es mi primera version de mi `portal`
+111 222 333 `444` 555 666 777 
+
+Jekyll also offers powerful support for code snippets:
+
+{% highlight ruby %}
+esta seccione s un blloque resaltado en mi post
+{% endhighlight %}
+
+Si nesecitas ver informacion de los productoS DE [MICROSOF][ref01] visita su pagina.
+La empresa [IBM][ref02] tiene muchos productos interesante.
+El portal de [Amazon][ref03] ofrece mejores productos.
+
+
+
+[ref01]: https://www.microsoft.com/es-pe
+[ref02]: https://www.ibm.com/mx-es/products
+[ref03]: https://www.amazon.com/-/es/
