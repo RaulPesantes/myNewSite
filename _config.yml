@@ -12,6 +12,7 @@ github_username:  raulpesantes
 
 # Build settings
 theme: minima
+
 plugins:
   - jekyll-feed
 
