@@ -2,7 +2,7 @@
 title: Cafeteria Tematica
 email: raulpesantes@tienda.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Cafeteria tematica es un lugar donde encontraras ambiente calido.......
+  Cafeteria tematica es un lugar donde encontraras ambiente calido.......10
   Donde podras disfrutar de los platos de la epoca de los 50.
 baseurl: "/myNewSite" # the subpath of your site, e.g. /blog
 url: "https://raulpesantes.github.io" # the base hostname & protocol for your site, e.g. http://example.com
